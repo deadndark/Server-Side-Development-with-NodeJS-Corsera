@@ -1,3 +1,3 @@
-# Server-Side-Development-with-NodeJS-Corsera
+# Server-Side-Development-with-NodeJS-Coursera
 All assigments
 
